@@ -1,1 +1,13 @@
-{"datetime": 1643213828,"filename": "Kasumi-1.0-PoPiPa-20220126-OFFICIAL-cedric.zip","id": "","romtype": "official","size": 774783641,"url": "https://github.com/Kasumi-Devices/releases/releases/download/Kasumi-1.0-PoPiPa-20220126-OFFICIAL-cedric-0124/Kasumi-1.0-PoPiPa-20220126-OFFICIAL-cedric.zip","version": "1.0"}
+{
+  "response": [
+    {
+      "datetime": "1643481749",
+      "filename": "Kasumi-1.0-PoPiPa-20220129-OFFICIAL-cedric.zip",
+      "id": "5ebc77165d645c4bb02303046903f6a0f67ce3a02d396573f59152dbf01899c9",
+      "romtype": "OFFICIAL",
+      "size": "775326501",
+      "url": "https://github.com/Kasumi-Devices/releases/releases/download/Kasumi-1.0-PoPiPa-20220129-OFFICIAL-cedric-0047/Kasumi-1.0-PoPiPa-20220129-OFFICIAL-cedric.zip",
+      "version": "1.0"
+    }
+  ]
+}
