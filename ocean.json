@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": "1643347904",
-      "filename": "Kasumi-1.0-PoPiPa-20220128-OFFICIAL-ocean.zip",
-      "id": "40110fc9fa53919ca778560945ba6478",
+      "datetime": "1645505816",
+      "filename": "Kasumi-1.1-PoPiPa-20220222-OFFICIAL-ocean.zip",
+      "id": "2667092876ab52fd6684c6bfa9a7a1b724765de29368a9c25269b54a020a9eb0",
       "romtype": "OFFICIAL",
-      "size": "707319001",
-      "url": "https://github.com/Kasumi-Devices/releases/releases/download/Kasumi-1.0-PoPiPa-20220128-OFFICIAL-ocean-0636/Kasumi-1.0-PoPiPa-20220128-OFFICIAL-ocean.zip",
+      "size": "708199901",
+      "url": "https://github.com//releases/download/Kasumi-1.1-PoPiPa-20220222-OFFICIAL-ocean-1413/Kasumi-1.1-PoPiPa-20220222-OFFICIAL-ocean.zip",
       "version": "1.0"
     }
   ]
