@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "datetime": "1645335929",
-      "filename": "Kasumi-1.1-PoPiPa-20220220-OFFICIAL-cedric.zip",
-      "id": "e2eb61e308f0baf20c42c9ce9c48bf6c1875af4e64462299385b80680c8e26b2",
+      "datetime": "1651308173",
+      "filename": "Kasumi-1.2-PoPiPa-20220430-OFFICIAL-cedric.zip",
+      "id": "03a39bfc8becda6ba1bd44965855525e64c3cfdaa99671651d8506ca6534fd57",
       "romtype": "OFFICIAL",
-      "size": "775397214",
-      "url": "https://github.com//releases/download/Kasumi-1.1-PoPiPa-20220220-OFFICIAL-cedric-2215/Kasumi-1.1-PoPiPa-20220220-OFFICIAL-cedric.zip",
-      "version": "1.0"
+      "size": "776387485",
+      "url": "https://memediatek.00p513-dev.workers.dev/BeruROMs/Kasumi/cedric/Kasumi-1.2-PoPiPa-20220430-OFFICIAL-cedric.zip",
+      "version": "1.2"
     }
   ]
 }
