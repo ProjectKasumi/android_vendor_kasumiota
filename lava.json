@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "datetime": "1643412363",
-      "filename": "Kasumi-1.0-PoPiPa-20220128-OFFICIAL-lava.zip",
-      "id": "a8b38599c47289534bc858d96d40e31a",
+      "datetime": "1651121293",
+      "filename": "Kasumi-1.2-PoPiPa-20220428-OFFICIAL-lava.zip",
+      "id": "ac5ca7b810d654bc8ecb5e48779f5ff6a9d8e25bc03f7207c55f0bad9171332f",
       "romtype": "OFFICIAL",
-      "size": "924638396",
-      "url": "https://github.com/Kasumi-Devices/releases/releases/download/Kasumi-1.0-PoPiPa-20220128-OFFICIAL-lava-0055/Kasumi-1.0-PoPiPa-20220128-OFFICIAL-lava.zip",
-      "version": "1.0"
+      "size": "939422475",
+      "url": "https://memediatek.00p513.workers.dev/BeruROMs/Kasumi/lava/Kasumi-1.2-PoPiPa-20220428-OFFICIAL-lava.zip",
+      "version": "1.2"
     }
   ]
 }
