@@ -1,1 +1,13 @@
-
+{
+  "response": [
+    {
+      "datetime": "1651520537",
+      "filename": "Kasumi-1.2-PoPiPa-20220502-OFFICIAL-GApps-cedric.zip",
+      "id": "76b6b0a2d833a68551bf386ddeb0fb4dbf0e32bc3a09ce0f1cff6ec4f16a035a",
+      "romtype": "OFFICIAL",
+      "size": "955298685",
+      "url": "https://dl.ayokaacr.workers.dev/4:/cedric/Kasumi-1.2-PoPiPa-20220502-OFFICIAL-GApps-cedric.zip",
+      "version": "1.2"
+    }
+  ]
+}
