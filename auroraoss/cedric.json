@@ -1,1 +1,13 @@
-
+{
+  "response": [
+    {
+      "datetime": "1653417719",
+      "filename": "Kasumi-1.2-PoPiPa-20220524-OFFICIAL-AuroraOSS-cedric.zip",
+      "id": "0577b384d61cb83dee1ba53b8c12187d342f749120c96aee9f5054c6d3ddfdbe",
+      "romtype": "OFFICIAL",
+      "size": "783616415",
+      "url": "https://dl.ayokaacr.workers.dev/4:/cedric/Kasumi-1.2-PoPiPa-20220524-OFFICIAL-AuroraOSS-cedric.zip",
+      "version": "1.2"
+    }
+  ]
+}
