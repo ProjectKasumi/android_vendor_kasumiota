@@ -1,0 +1,3 @@
+Push new OTA for ${LINEAGE_BUILD}
+
+* Build type: ${KASUMI_BUILD_TYPE}
