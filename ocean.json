@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "datetime": "1645566308",
-      "filename": "Kasumi-1.1-PoPiPa-20220222-OFFICIAL-ocean.zip",
-      "id": "f3d230272a3bf5a7f32d0ae40b42ec844b4aa6ad4e6dcb7f8afbde53584871a5",
+      "datetime": "1653456186",
+      "filename": "Kasumi-1.2-PoPiPa-20220525-OFFICIAL-ocean.zip",
+      "id": "16be30e129f97e4c59b37c386e9a9c70098a9e4fbdbf58ae4b57a93ed7487dc0",
       "romtype": "OFFICIAL",
-      "size": "710413734",
-      "url": "https://github.com//releases/download/Kasumi-1.1-PoPiPa-20220222-OFFICIAL-ocean-2312/Kasumi-1.1-PoPiPa-20220222-OFFICIAL-ocean.zip",
-      "version": "1.0"
+      "size": "712195622",
+      "url": "https://dl.ayokaacr.workers.dev/4:/ocean/Kasumi-1.2-PoPiPa-20220525-OFFICIAL-ocean.zip",
+      "version": "1.2"
     }
   ]
 }
