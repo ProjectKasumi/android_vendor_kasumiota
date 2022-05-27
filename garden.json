@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "datetime": "1643674023",
-      "filename": "Kasumi-1.0-PoPiPa-20220201-OFFICIAL-garden.zip",
-      "id": "ac6dce6637153e30e34b44fea46196a5995db7ab16132d9c319be91ab95ea011",
+      "datetime": "1653646684",
+      "filename": "Kasumi-1.2-PoPiPa-20220527-OFFICIAL-garden.zip",
+      "id": "9e3591d3fd1655c9490079bd2f230860399c0683697960f48d05e39f2d3f45c0",
       "romtype": "OFFICIAL",
-      "size": "628657086",
-      "url": "https://github.com/Kasumi-Devices/releases/releases/download/Kasumi-1.0-PoPiPa-20220201-OFFICIAL-garden-0343/Kasumi-1.0-PoPiPa-20220201-OFFICIAL-garden.zip",
-      "version": "1.0"
+      "size": "630547035",
+      "url": "https://dl.ayokaacr.workers.dev/4:/garden/Kasumi-1.2-PoPiPa-20220527-OFFICIAL-garden.zip",
+      "version": "1.2"
     }
   ]
 }
