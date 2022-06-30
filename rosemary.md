@@ -1,36 +1,28 @@
-Another day, another fixup. This one shoots a good one out this time.
+This OTA is going to be an optimization update, in which I have added
+2 props that will tell HWUI to focus more on GPU and less on CPU for
+graphical processing.
 
-Maybe you remember, I once appended "Make sure you flash custom
-recovery after each OTA. Otherwise you'll be left with Lineage recovery
-without a working display". Say no more, it also works now! When you
-check the commit though, it has quite a lot of purge possibly because
-what's purged is useless.
+Another change is rather interesting. I personally thought the content
+on AOD shifts in a little radius and not too far away. It apparently
+does, which has been sorted out now.
 
-Thanks to @woomymy for her fix and patch on this. Even though it's
-hacky, it works.
+Thanks to @aScordino for his recommendations and reference commits on
+these!
 
-Other than that, I have also attempted to fix the issue where minimum
-brightness was much higher than the value we expected - It was at 21%
-while resources say it has to be 10%! I tried to change the value in
-system resources before realizing this, and so I still call it an
-"attempt". Guess I'll still be flashbanged at nights for now.
+And also, you can consider this update as a last-day-of-pride-month
+update, given today (June 30, 2022) marks last day of Pride Month of
+2022. It was a weird but also enjoyable one in my opinion. I hope the
+LGBTQIA+ people using this ROM on their Rosemary can say the same too.
+This doesn't mean I'll drop updates of course! With the rapidly
+accelarating progress of my works on OSS vendor, I assume we'll get an
+open source vendor in no time! If it works fine when flashed over
+existing build of Kasumi, I'll release as OTA. Otherwise, I'll need to
+think some other thing for this.
 
-Another sad news, the bug with in-call volume where it was at highest
-value unconditionally is somehow back, I'll try my best to fix that
-one as well. But unlikely to be fixed unless I go OSS vendor.
-
-Anyway, following is a short-log for changes since last update. So
-interested ones can check it out.
-
-Enjoy!
-
-                        Beru "Stella" Hinode
+Enjoy it!
+                       Beru "Stella" Hinode
 
 -----------------------------------------------------------------------
 
-```
-d304fd6 (HEAD -> kasumi-v1, origin/kasumi-v1) rosemary/recovery: Fix black screen on recovery
- 52 files changed, 14 insertions(+), 1894 deletions(-)
-b9c583c rosemary/overlay/RF: Set minimum brightness and dim much lower
- 1 file changed, 2 insertions(+), 2 deletions(-)
-```
+1f4191e (HEAD -> kasumi-v1, origin/kasumi-v1) rosemary/common.prop: Use HintManager for HWUI
+1047c77 rosemary/overlay/RF: Don't let burn-in protection shift too far
