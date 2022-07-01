@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": "1653646684",
-      "filename": "Kasumi-1.2-PoPiPa-20220527-OFFICIAL-garden.zip",
-      "id": "9e3591d3fd1655c9490079bd2f230860399c0683697960f48d05e39f2d3f45c0",
+      "datetime": "1656676502",
+      "filename": "Kasumi-1.2-PoPiPa-20220701-OFFICIAL-garden.zip",
+      "id": "db3d0be35f396c2a5d234228f4112e8a0c99c46d782f61e742a080b0a4333b59",
       "romtype": "OFFICIAL",
-      "size": "630547035",
-      "url": "https://dl.ayokaacr.workers.dev/4:/garden/Kasumi-1.2-PoPiPa-20220527-OFFICIAL-garden.zip",
+      "size": "629862560",
+      "url": "https://dl.ayokaacr.net/4:/garden/Kasumi-1.2-PoPiPa-20220701-OFFICIAL-garden.zip",
       "version": "1.2"
     }
   ]
