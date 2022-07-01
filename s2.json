@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": "1653662717",
-      "filename": "Kasumi-1.2-PoPiPa-20220527-OFFICIAL-s2.zip",
-      "id": "3cbeb82fd7747753c327bdaf32f79171863227788973a84412a4f71a28d4248d",
+      "datetime": "1656694273",
+      "filename": "Kasumi-1.2-PoPiPa-20220701-OFFICIAL-s2.zip",
+      "id": "076f57a222136d2efb7ffc3b188feb59e06ededa4bf4152a1c1206071bbbdf1d",
       "romtype": "OFFICIAL",
-      "size": "777501426",
-      "url": "https://dl.ayokaacr.workers.dev/4:/s2/Kasumi-1.2-PoPiPa-20220527-OFFICIAL-s2.zip",
+      "size": "778442376",
+      "url": "https://dl.ayokaacr.net/4:/s2/Kasumi-1.2-PoPiPa-20220701-OFFICIAL-s2.zip",
       "version": "1.2"
     }
   ]
