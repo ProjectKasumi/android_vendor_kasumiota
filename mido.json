@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": "1653724114",
-      "filename": "Kasumi-1.2-PoPiPa-20220528-OFFICIAL-mido.zip",
-      "id": "fcb30b52de7961713d21f85eb2d85addadb2155f85c8c9be20900e103015bbcb",
+      "datetime": "1656727004",
+      "filename": "Kasumi-1.2-PoPiPa-20220702-OFFICIAL-mido.zip",
+      "id": "f66aca02a1dd7eaa7871b4d545f67cdf346624ae66590c6ba7911e6d91864956",
       "romtype": "OFFICIAL",
-      "size": "762861905",
-      "url": "https://dl.ayokaacr.workers.dev/4:/mido/Kasumi-1.2-PoPiPa-20220528-OFFICIAL-mido.zip",
+      "size": "763524469",
+      "url": "https://dl.ayokaacr.net/4:/mido/Kasumi-1.2-PoPiPa-20220702-OFFICIAL-mido.zip",
       "version": "1.2"
     }
   ]
