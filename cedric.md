@@ -1,13 +1,16 @@
 Hi Cedric users!
 
-Just another month, another ASB. This time though, I have done some
-platform-specific changes instead of just a security update.
+An unexpected update, focusing on some more platform-specific fixes
+along with some touches to bad ancient codes. This one still doesn't
+include new device-specific stuff as always, so whatever you get
+fixed is usually fixed globally for all devices as well.
 
-There's nothing new device-specific unfortunately. But no worries,
-because even platform-specific fixes are helpful, isn't it? :P
+This one also bumps the version string to "1.3.1" on our build system,
+even though you, the user, won't see it in here. I gotta look into it
+as well.
 
-Message for 1.3 can be found here:
-https://git.polycule.co/ProjectKasumi/android/vendor_kasumi/-/commit/5ad2984e8e7c70efac569258b4c08e694371a1ba
+Message for 1.3.1 (1.3-r2) can be found here:
+https://git.polycule.co/ProjectKasumi/android/vendor_kasumi/-/commit/2e1eb919fe2a87f9541571c9f2f76917c252a456
 
 Enjoy it!
                        Beru "Stella" Hinode
