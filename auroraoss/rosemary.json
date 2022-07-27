@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "datetime": "1658363677",
-      "filename": "Kasumi-1.3-PoPiPa-20220721-OFFICIAL-AuroraOSS-rosemary.zip",
-      "id": "28d50c6d94163a9f3045cd7a28a1588433c83249bdf1a275f8f46b0edbac6fa9",
+      "datetime": "1658113839",
+      "filename": "Kasumi-1.3-PoPiPa-20220718-OFFICIAL-AuroraOSS-rosemary.zip",
+      "id": "c10c7433a7b7da68d5de3f774748aa7657ef3f9248f0f34eb4a8b7460b47496e",
       "romtype": "OFFICIAL",
-      "size": "1223177390",
-      "url": "https://dl.ayokaacr.net/4:/rosemary/Kasumi-1.3-PoPiPa-20220721-OFFICIAL-AuroraOSS-rosemary.zip",
-      "version": "1.3"
+      "size": "1212250064",
+      "url": "https://dl.ayokaacr.net/4:/rosemary/Kasumi-1.3-PoPiPa-20220718-OFFICIAL-AuroraOSS-rosemary.zip",
+      "version": "1.2"
     }
   ]
 }
