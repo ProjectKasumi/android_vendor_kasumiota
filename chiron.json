@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "datetime": "1643687323",
-      "filename": "Kasumi-1.0-PoPiPa-20220201-OFFICIAL-chiron.zip",
-      "id": "d9e2bb6519fbc5b3fbf9dbc0eb0af5aa4f901866a9912d2b20045c404e99ebf2",
+      "datetime": "1660763147",
+      "filename": "Kasumi-1.4-PoPiPa-20220817-OFFICIAL-chiron.zip",
+      "id": "e3833012d0379de07972fb9adbed10aa5e23cf1c28cb810140352b4dbda65d4d",
       "romtype": "OFFICIAL",
-      "size": "836519023",
-      "url": "https://github.com/Kasumi-Devices/releases/releases/download/Kasumi-1.0-PoPiPa-20220201-OFFICIAL-chiron-0609/Kasumi-1.0-PoPiPa-20220201-OFFICIAL-chiron.zip",
-      "version": "1.0"
+      "size": "842331397",
+      "url": "https://dl.ayokaacr.net/4:/chiron/Kasumi-1.4-PoPiPa-20220817-OFFICIAL-chiron.zip",
+      "version": "1.3"
     }
   ]
 }
