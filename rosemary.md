@@ -1,20 +1,16 @@
-Quite empty over here, isn't it?
+"Ba-Ba-Back from the dead!"
 
-Hi, I'm sorry for this sudden decision, but unfortunately, rosemary
-has been temporarily dropped from 1.x.
+After a long time of thinking and trying hard, rosemary is back on
+official roster! There has been quite a few changes ever since! Let's
+take a look at what's new and what's changed, shall we?
 
-The reason why is this happening is because, for some odd reason, my
-testing builds work and boot all fine, but after regular release, not
-only the regular release but also my testing release refuse to boot.
-Don't get offended, I'm not blaming anyone here, but I think I need to
-re-evaluate my infrastructure especially with signing part because this
-wasn't supposed to happen at all.
+June security patch thanks to LineageOS, with passing SafetyNet and
+Play Integrity thanks to Evolution X!
 
-Anyway, if you want Kasumi to be back on rosemary, you can somehow
-convince Zain to publish his Android 12 trees so I can do platform
-bringup with all-new infrastructure and less issues. Until then, see
-you in another time and space, or perhaps with another ROM.
+Rebased on latest device trees by Woomymy!
 
-Goodbye! Love you all! <3
+Google Camera GO ships only on GApps builds, systematically!
 
-~ Beru "Stella" Hinode
+Updated maintainer name to my final name: Beru Kobayashi!
+
+Uprevisioned the ROM version to 1.4.1, to indicate some difference.
